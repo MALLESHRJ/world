@@ -6,6 +6,6 @@ metadata:
 spec:
   containers:
   - name: container1
-    image: nginx:latest
+    image: jmallesh/release1
     ports:
     - containerPort: 80
